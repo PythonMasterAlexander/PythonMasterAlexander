@@ -1,6 +1,6 @@
 # Hi! I' am Alexander and this is my GitHub Account ✋
 
-<img src="https://github-readme-stats.vercel.app/api?username=Alexander&theme=cobalt2&show_icons=true"> 
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=Alexander&theme=cobalt2&show_icons=true"> 
 
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"> 
 
