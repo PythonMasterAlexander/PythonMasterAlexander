@@ -27,5 +27,5 @@
 * Working in the Terminal
 * Linux
 ### Contact
-* alexanderhardeland@gmail.com
+* alexanderhardeland-work@gmail.com
 ### PS! I am not a PythonMaster
