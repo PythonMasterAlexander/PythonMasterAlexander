@@ -26,5 +26,6 @@
 * Reading books
 * Working in the Terminal
 * Linux
-
+### Contact
+* alexanderhardeland@gmail.com
 ### PS! I am not a PythonMaster
