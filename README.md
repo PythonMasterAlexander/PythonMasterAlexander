@@ -15,6 +15,7 @@
 * Build tests
 * Learn more about debugging
 * Fix issues
+* Improve the code and styling
 ### Links
 [Portfolio Website](https://github.com)
 ## Other interestes of mine are 
