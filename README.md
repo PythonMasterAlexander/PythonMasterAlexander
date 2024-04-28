@@ -11,6 +11,8 @@
 * Project Exam 2
 * JavaScript Frameworks CA
 * Semester Project 2
+* Book about JavaScript with taskes
+  
 ### What I want to do is
 * Build tests
 * Learn more about debugging
