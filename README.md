@@ -31,7 +31,8 @@ Front end and backend for
 * Music
 * Reading books
 * Working in the Terminal
-* Linux
+* Unix/Linux
+* Computer Science
 ### Contact
 * alexanderhardeland-work@gmail.com
 ### PS! I am not a PythonMaster
