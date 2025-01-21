@@ -14,7 +14,6 @@ Front end and backend for
 * JavaScript Frameworks CA
 * Semester Project 1
 * Semester Project 2
-* Book about JavaScript with taskes
   
 ### What I want to do is
 * Build tests
