@@ -20,7 +20,7 @@ Front end and backend for
 * Build tests
 * Learn more about debugging
 * Fix issues
-* Improve the code and styling
+* Improve code and styling
 ### Links
 [Portfolio Website](https://pythonmasteralexander.github.io/portfolio-2-website/)
 ## Other interests of mine are 
